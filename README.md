@@ -136,6 +136,15 @@ Dynamic DAX-powered ranking of top attrition signals by weighted attrition gap p
 ---
 
 ## Tools
+## Download
+
+| File | Link |
+|------|------|
+| `NEXORA.pbix` | [Download from Google Drive](https://drive.google.com/file/d/1b6vX7LkDs2JG58UOqbB23sn2rIvr74Ax/view?usp=sharing) |
+
+> Power BI Desktop required to open .pbix files. [Download Power BI Desktop](https://powerbi.microsoft.com/desktop)
+
+---
 
 - **Power BI Desktop** — report development, DAX, Power Query
 - **DAX** — KPI measures, dynamic risk multiplier, attrition gap scoring
